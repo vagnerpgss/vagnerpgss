@@ -1,10 +1,19 @@
-### Hi there 👋
+# Vagner Pontes G S Santos
 
-<!--
-**vagnerpgss/vagnerpgss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/vagnerpgss)](https://github.com/vagnerpgss)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vagnerit/)](https://www.linkedin.com/in/vagnerit/)
 
-Here are some ideas to get you started:
+## Hi there 👋
 
+I'm a Software Engineer
+
+- 🔭 I'm currently working on creating the backend services for a personal project: https://norango.com.br/
+
+### Education
+- Bachelor in Computer Science
+
+---
+<!-- Here are some ideas to get you started:
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
