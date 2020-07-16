@@ -5,9 +5,10 @@
 
 ## Hi there 👋
 
-I'm a Software Engineer
+I'm a Software Engineer. 
 
-- 🔭 I'm currently working on creating the backend services for a personal project: https://norango.com.br/
+- 🔭 I'm currently developing a personal project with my wife [ Jaque :heartbeat:](https://github.com/masjaque/): https://norango.com.br/
+- :computer: [NoRango](https://norango.com.br/) Serverless Stack: React, Node.js, Lambda, DynamoDB, S3, API Gateway.
 
 ### Education
 - Bachelor in Computer Science
