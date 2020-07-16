@@ -5,7 +5,9 @@
 
 ## Hi there 👋
 
-I'm a Software Engineer. 
+I'm a Software Engineer.
+[![Python](https://img.shields.io/badge/Python-3.8-blue)](https://www.python.org/) [![Java](https://img.shields.io/badge/Java-11-success)](https://www.java.com/)
+[![Node.JS](https://img.shields.io/badge/Node.JS-12-red)](https://nodejs.org/en/)
 
 - 🔭 I'm currently developing a personal project with my wife [ Jaque :heartbeat:](https://github.com/masjaque/): https://norango.com.br/
 - :computer: [NoRango](https://norango.com.br/) Serverless Stack: React, Node.js, Lambda, DynamoDB, S3, API Gateway.
