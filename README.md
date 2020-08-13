@@ -15,6 +15,12 @@ I'm a Software Engineer.
 ### Education
 - Bachelor in Computer Science
 
+### Motivation
+Nobody is an expert, we are always learning something new or a better way to do something. So I will always be reading, listening a lot and experimenting here.
+
+### Goals
+
+
 ---
 <!-- Here are some ideas to get you started:
 - 🔭 I’m currently working on ...
