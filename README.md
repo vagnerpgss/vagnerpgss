@@ -1,8 +1,8 @@
-# Vagner Pontes G S Santos
+# Vagner Pontes G S Santos [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vagnerit/)](https://www.linkedin.com/in/vagnerit/)
 
 ## Hi there 👋
 
-I'm a Software Engineer. [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vagnerit/)](https://www.linkedin.com/in/vagnerit/)
+I'm a Software Engineer.
 
 - 🔭 I'm currently developing a personal project with my wife [ Jaque :heartbeat:](https://github.com/masjaque/): https://norango.com.br/
 - :computer: [NoRango](https://norango.com.br/) Serverless Stack: React, Node.js, Lambda, DynamoDB, S3, API Gateway.
@@ -17,9 +17,7 @@ I'm a Software Engineer. [![Linkedin Badge](https://img.shields.io/badge/-Linked
 [![Python](https://img.shields.io/badge/Python-3.8-blue)](https://www.python.org/) [![Java](https://img.shields.io/badge/Java-11-success)](https://www.java.com/) [![Node.JS](https://img.shields.io/badge/Node.JS-12-red)](https://nodejs.org/en/)  
 
 ### Motivation
-Nobody is an expert, we are always learning something new or a better way to do something. So I will always be reading, listening a lot and experimenting here.
-
-### Some statistics
+Nobody is an expert, we are always learning something new or a better way to do something. So I will always be reading, listening to a lot, and experimenting here.
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=vagnerpgss&count_private=true&show_icons=true&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vagnerpgss&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
