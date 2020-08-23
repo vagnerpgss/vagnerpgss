@@ -6,23 +6,31 @@
 ## Hi there 👋
 
 I'm a Software Engineer.
-[![Python](https://img.shields.io/badge/Python-3.8-blue)](https://www.python.org/) [![Java](https://img.shields.io/badge/Java-11-success)](https://www.java.com/)
-[![Node.JS](https://img.shields.io/badge/Node.JS-12-red)](https://nodejs.org/en/)
 
 - 🔭 I'm currently developing a personal project with my wife [ Jaque :heartbeat:](https://github.com/masjaque/): https://norango.com.br/
 - :computer: [NoRango](https://norango.com.br/) Serverless Stack: React, Node.js, Lambda, DynamoDB, S3, API Gateway.
+- 🌱 I’m currently learning Python and NodeJs
+- 💬 Ask me about anything [here](https://github.com/vagnerpgss/vagnerpgss/issues)
 
 ### Education
 - Bachelor in Computer Science
 
+### Languages and Tools:
+
+[![Python](https://img.shields.io/badge/Python-3.8-blue)](https://www.python.org/)  
+[![Java](https://img.shields.io/badge/Java-11-success)](https://www.java.com/)  
+[![Node.JS](https://img.shields.io/badge/Node.JS-12-red)](https://nodejs.org/en/)  
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+
 ### Motivation
 Nobody is an expert, we are always learning something new or a better way to do something. So I will always be reading, listening a lot and experimenting here.
 
-### Stats
+### Some statistics
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=vagnerpgss&count_private=true&show_icons=true&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
-
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vagnerpgss&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
