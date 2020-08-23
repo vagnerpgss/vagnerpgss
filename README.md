@@ -1,11 +1,8 @@
 # Vagner Pontes G S Santos
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/vagnerpgss)](https://github.com/vagnerpgss)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vagnerit/)](https://www.linkedin.com/in/vagnerit/)
-
 ## Hi there 👋
 
-I'm a Software Engineer.
+I'm a Software Engineer. [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vagnerit/)](https://www.linkedin.com/in/vagnerit/)
 
 - 🔭 I'm currently developing a personal project with my wife [ Jaque :heartbeat:](https://github.com/masjaque/): https://norango.com.br/
 - :computer: [NoRango](https://norango.com.br/) Serverless Stack: React, Node.js, Lambda, DynamoDB, S3, API Gateway.
