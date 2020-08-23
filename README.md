@@ -15,6 +15,17 @@ I'm a Software Engineer.
 ### Education
 - Bachelor in Computer Science
 
+### Motivation
+Nobody is an expert, we are always learning something new or a better way to do something. So I will always be reading, listening a lot and experimenting here.
+
+### Stats
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=vagnerpgss&count_private=true&show_icons=true&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vagnerpgss&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
 ---
 <!-- Here are some ideas to get you started:
 - 🔭 I’m currently working on ...
