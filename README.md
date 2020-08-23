@@ -17,13 +17,7 @@ I'm a Software Engineer.
 
 ### Languages and Tools:
 
-[![Python](https://img.shields.io/badge/Python-3.8-blue)](https://www.python.org/)  
-[![Java](https://img.shields.io/badge/Java-11-success)](https://www.java.com/)  
-[![Node.JS](https://img.shields.io/badge/Node.JS-12-red)](https://nodejs.org/en/)  
-
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+[![Python](https://img.shields.io/badge/Python-3.8-blue)](https://www.python.org/) [![Java](https://img.shields.io/badge/Java-11-success)](https://www.java.com/) [![Node.JS](https://img.shields.io/badge/Node.JS-12-red)](https://nodejs.org/en/)  
 
 ### Motivation
 Nobody is an expert, we are always learning something new or a better way to do something. So I will always be reading, listening a lot and experimenting here.
